@@ -1,0 +1,23 @@
+# Development files
+REQUIREMENTS.md
+TESTING.md
+.git/
+.gitignore
+
+# Examples (optional, can be included)
+examples/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
